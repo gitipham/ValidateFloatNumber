@@ -4,7 +4,7 @@
  * Allow only characters which are digits (0 through 9) 
  * At most one decimal point.
  * At most one occurrence of the letter ‘E’. At most two positive or negative signs.
- * @author Ivy Pham
+ * @author Ivy P.
  * @version June 6, 2020
  */
  public class ValidateFloat

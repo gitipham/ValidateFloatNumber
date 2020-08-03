@@ -2,8 +2,7 @@
 /**
  * This Driver class will prompt the user to enter candidate strings and prints a message
  * stating whether the entry is a valid floating point number or not
- *
- * @author Ivy Pham
+ * @author Ivy P.
  * @version June 6, 2020
  */
 import java.util.*; 
